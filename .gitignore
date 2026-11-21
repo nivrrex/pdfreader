@@ -1,0 +1,7 @@
+/pdfreader
+/pdfreader.exe
+/dist/
+*.deb
+*.tar.gz
+*.zip
+*.log

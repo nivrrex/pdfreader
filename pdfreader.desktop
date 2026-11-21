@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=PDF Reader
+Name[zh_CN]=PDF 阅读器
+GenericName=PDF Viewer
+GenericName[zh_CN]=PDF 阅读器
+Comment=Minimal PDF reader with embedded Chinese font support
+Comment[zh_CN]=使用内嵌中文字体的极简 PDF 阅读器
+Exec=pdfreader %f
+TryExec=pdfreader
+Icon=pdfreader
+Terminal=false
+Categories=Office;Viewer;
+MimeType=application/pdf;application/x-pdf;
+Keywords=PDF;reader;viewer;阅读器;
+StartupNotify=true
+StartupWMClass=pdfreader
